@@ -72,14 +72,14 @@ h1 {
   background-color: #211b43;
 }
 .active {
-  color: #693a66;
+  color: #211b43;
 }
 footer {
   text-align: center;
   margin-top: 23%;
   margin-right: 20%;
   padding: 1px;
-  color: white;
+  color: #693a66;
 }
 .icons {
   margin-left: 34px;
